@@ -1,1 +1,18 @@
+body {
+    
+}
+.weightDiv{
+    display:flex;
+    flex-direction:column;
+}
+.weightDiv form{
+    
+}
 
+.weightCont, .heightCont{
+    display:flex;
+    gap:10px;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+}
