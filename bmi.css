@@ -1,10 +1,11 @@
 body {
-
+    
 }
 .weightDiv{
     display:flex;
     flex-direction:column;
-    background-color:#fd009f;
+    background-color:#d1ffbd;
+    padding:10px;
     
 }
 .weightDiv form{
@@ -22,5 +23,20 @@ body {
 button{
     padding:5px;
     margin-top:10px;
-    background-color:#f03fa0;
+    background-color:#d2ffd0;
 }
+table, th, td {
+  border: 1px solid #d0ffbd;
+}
+table {
+    width:300px;
+}
+
+.infoDiv{
+    padding:5px;
+    display:flex;
+    
+}
+
+
+
